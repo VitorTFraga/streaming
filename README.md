@@ -1,4 +1,4 @@
-# 🌟 Alura Plus Landing Page
+# Alura Plus Landing Page
 
 ## 📋 Project Description
 
@@ -27,15 +27,15 @@ The site is a home page for the user to subscribe to get classes about technolog
 
 ## 🔗 Project Access
 
-You can view the project online (if deployed) or follow the installation instructions below.
+You can view the project online or follow the installation instructions below.
 
-[Link to Deployment (e.g., Netlify, Vercel)] 
+[Link to Deployment (Vercel)](https://streaming-46fx9lj39-vitors-projects-9056ce57.vercel.app)
 
 ## ⚙️ How to Run the Project Locally
 
 1.  **Clone the Repository:** Open your Terminal and use the command:
     ```bash
-    git clone [https://github.com/VitorTFraga/streaming.git](https://github.com/VitorTFraga/streaming.git)
+    git clone https://github.com/VitorTFraga/streaming.git
     ```
 2.  **Navigate to the Folder:**
     ```bash
@@ -50,4 +50,4 @@ You can view the project online (if deployed) or follow the installation instruc
 If you have any questions, suggestions, or feedback about the project, you can find me here:
 
 * **GitHub:** [VitorTFraga](https://github.com/VitorTFraga) 
-* **LinkedIn:** [Your LinkedIn Link]
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vitor-táboas-fraga-002651212/)
